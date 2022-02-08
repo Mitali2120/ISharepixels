@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "ISharepixels_jsm"
-  },
   "api": {
     "projectId": "z41h6va1",
     "dataset": "production"
+  },
+  "project": {
+    "name": "ISharepixels_jsm"
   },
   "plugins": [
     "@sanity/base",
